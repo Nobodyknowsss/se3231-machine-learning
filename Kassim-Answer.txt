@@ -1,0 +1,25 @@
+Why did you choose this dataset?
+
+I chose this dataset because I am a gamer and wanted to see if playing games
+affects academic performance. By analyzing grades alongside gaming habits, 
+I can understand if there’s a connection between how often someone plays and 
+their school performance. It’s interesting to explore whether gaming has a positive,
+negative, or no effect on grades.
+
+What is your conclusion upon conducting linear regression on this dataset?
+
+After performing linear regression, I found that some gaming factors have a 
+slight impact on grades, but others do not. Playing hours and playing often seem 
+to have a small negative effect, meaning more gaming might lead to lower grades. However, 
+other factors like parent revenue and education levels also contribute significantly to grades.
+This suggests that while gaming habits matter, they are not the only factor. Socioeconomic
+background, parental influence, and personal study habits play a larger role. Overall,
+the results show that gaming alone does not determine academic success, but balancing 
+ study and play is essential.
+
+How relevant is linear regression today?
+
+Linear regression is still widely used today in many fields. 
+It helps analyze relationships between variables, making it useful in education, business, 
+healthcare, and research. Despite more advanced machine learning models, linear regression
+remains a simple and effective tool for making predictions and understanding trends in data.
